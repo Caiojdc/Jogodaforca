@@ -3,7 +3,7 @@ import os as os
 import time
 
 # Variáveis       
-                 
+# teste git                
 # Adicionar ou Remover palavras Aqui \|/
 palavras = ["computador", "cachorro", "mulher", "brasil", "parede"]
 
